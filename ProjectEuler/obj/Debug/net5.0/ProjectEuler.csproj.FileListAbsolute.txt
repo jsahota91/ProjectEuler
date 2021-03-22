@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.AssemblyInfo.cs
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.exe
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.deps.json
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.runtimeconfig.json
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.runtimeconfig.dev.json
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.dll
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ref\ProjectEuler.dll
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.pdb
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.dll
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ref\ProjectEuler.dll
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.pdb
+C:\Users\user\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.genruntimeconfig.cache
